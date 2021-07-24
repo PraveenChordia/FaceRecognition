@@ -1,0 +1,9 @@
+PyWavelets
+opencv-python
+seaborn
+scikit-learn
+joblib
+numpy
+pywavelets
+matplotlib
+pygrabber
